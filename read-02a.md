@@ -5,8 +5,8 @@ Markdown is a way to style text on the web. You control the display of the docum
 ### overview of Markdown syntax that you can use anywhere on GitHub:
 #### Headers 
 We use # for make headings we have 6 headings. 
-# This is an <h1> tag 
-###### This is an <h6> tag
+# This is an < h1> tag 
+###### This is an < h6> tag
 #### Emphasis
 Making format for the text like make it __bold__, _italic_ or combining them.
 *This text will be italic*
