@@ -1,6 +1,6 @@
-# I'm Raba'a and This is My Reading Notes repo
+# I'm Raba'a and This is My Reading Notes repo 
 
-
+In each course there are specific readings for it , these are summarizations for them . 
 
 
 |          Course                | Reading Note       |

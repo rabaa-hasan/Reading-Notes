@@ -1,4 +1,4 @@
-# Formating Text in HTML
+# Formatting Text in HTML
 ## Headings
 < h1>
 
@@ -301,4 +301,6 @@ break ;
 default : title= 'Test';
 break;
 }
+
+
 ![switch](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-switch-case.png)
