@@ -54,6 +54,7 @@ used to distort the element , in both the horizontal and vertical axizes.
 ```
 
 # Transitions
+
 a transition to take place, an element must have a change in state, and different styles must be identified for each state. The easiest way for determining styles for different states is by using the :hover, :focus, :active, and :target pseudo-classes.
 
 There are four transition related properties in total, including :
@@ -61,6 +62,7 @@ There are four transition related properties in total, including :
 * transition-duration
 * transition-timing-function
 * transition-delay
+
 ```
 .box {
   background: #2db34a;
@@ -71,7 +73,6 @@ There are four transition related properties in total, including :
 .box:hover {
   background: #ff7b29;
 }
-
 ```
 
 ## CSS3 TRANSITIONS
@@ -103,6 +104,7 @@ The transition-timing-function property can have the following values:
 * ease-in-out - specifies a transition effect with a slow start and end
 * cubic-bezier(n,n,n,n) - lets you define your own values in a cubic-bezier function
 
+
 ```
 #div1 {transition-timing-function: linear;}
 #div2 {transition-timing-function: ease;}
@@ -110,6 +112,7 @@ The transition-timing-function property can have the following values:
 #div4 {transition-timing-function: ease-out;}
 #div5 {transition-timing-function: ease-in-out;}
 ```
+
 
 ![transition](https://coursework.vschool.io/content/images/size/w2000/2016/08/transition_example2.png)
 
